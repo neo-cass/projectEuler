@@ -11,6 +11,6 @@ int sum(int range){
 
 int main(){
     printf("%d\n", sum(1000));
-    return 1;
+    return 0;
 }
 
